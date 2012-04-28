@@ -5,7 +5,7 @@ projects[] = pushtape_music
 projects[] = strongarm
 projects[] = views
 
-;projects[soundmanager2][version] = "2.x-dev"
+projects[soundmanager2][version] = "2.x-dev"
 
 projects[jplayer][subdir] = contrib
 projects[jplayer][type] = module
