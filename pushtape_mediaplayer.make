@@ -1,9 +1,8 @@
 api = 2
 core = 7.x
 
-projects[] = libraries
-projects[] = media
-projects[] = mediaplaylist
+
+projects[mediaplaylist] = 1.2
 
 projects[soundmanager2][version] = "2.x-dev"
 
