@@ -18,4 +18,5 @@ features[ctools][] = views:views_default:3.0
 features[features_api][] = api:1
 features[variable][] = jplayer_directory
 features[views_view][] = pushtape_player_track_views
+features[field][] = "node-track-field_audio"
 project status url = http://apps.rosenstrauch.com/software/fserver
