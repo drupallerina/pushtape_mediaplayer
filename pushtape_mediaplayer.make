@@ -1,7 +1,7 @@
 api = 2
 core = 7.x
 
-;projects[media_soundcloud] = 1.0-alpha1
+
 projects[media_colorbox] = 1.0-rc1
 projects[mediaplaylist] = 1.x-dev
 
