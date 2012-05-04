@@ -7,7 +7,7 @@
 /**
  * Implements hook_field_default_fields().
  */
-function pushtape_music_field_default_fields() {
+function pushtape_mediaplayer_field_default_fields() {
   $fields = array();
 
   // Exported field: 'node-track-field_audio'
